@@ -1,0 +1,31 @@
+body
+{
+	padding-top: 70px;
+	background: #30E8BF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FF8235, #30E8BF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.jumbotron
+{
+	color: #2c3e50;
+	background:#ecf0f1;
+}
+.navbar-inverse
+{
+	background: #391A0D;
+}
+a
+{
+	color:white;
+}
+.navbar-inverse .navbar-nav>li>a
+{
+	color:#white;
+}
+.navbar-inverse .navbar-brand
+{
+	color:white;
+}
